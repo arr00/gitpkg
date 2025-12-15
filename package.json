@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/EqualMa/gitpkg.git"
+    "url": "https://github.com/arr00/gitpkg.git"
   },
   "scripts": {
     "lint": "eslint --max-warnings 0",
